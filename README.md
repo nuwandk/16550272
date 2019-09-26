@@ -3,7 +3,7 @@ Project Name: Cloud Platform Integration Framework
 
 Download and extract CloudDataTransferringFramework.zip file.
 
-Cpif.Main.sln is the main solution file which contains all the projects.
+* Cpif.Main.sln is the main solution file which contains all projects.
 
 * Following projects contain Windows Service implementation to upload files to a configured cloud platform and receive files via configured cloud plaform respectively.  
 Cpif.Cloud.Sender.WindowsService  
